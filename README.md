@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherWise
 A weather app that shows the weather stats based on the user's location using real-time API [https://openweathermap.org/].
 
 * Icon that shows the weather status, 
